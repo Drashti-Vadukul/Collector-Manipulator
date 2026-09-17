@@ -994,7 +994,4 @@ I am continuously learning, practicing, and improving my programming skills thro
 
 ## 🚀 Keep Learning. Keep Building. Keep Improving. 💻🐍
 
-
-
-## Output
-![Program Output](output (1).png)
+![Program Output](std_output.png)
