@@ -997,7 +997,4 @@ I am continuously learning, practicing, and improving my programming skills thro
 
 
 ## Output
-![Program Output](output(1).png)
-![Program Output](output(2).png)
-![Program Output](output(3).png)
-![Program Output](output(4).png)
+![Program Output](output (1).png)
